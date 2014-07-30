@@ -1,0 +1,5 @@
+* Implement config files
+* Implement backend as plugins
+* Add hooks before sending data
+* Move actual DB writers to separate threads
+* Add more backends

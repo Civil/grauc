@@ -1,3 +1,9 @@
+# Cmake
+build/*
+
+# Static Analyzer
+*.plist
+
 # Compiled Object files
 *.slo
 *.lo
